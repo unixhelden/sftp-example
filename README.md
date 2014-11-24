@@ -1,4 +1,4 @@
-stfp-example
+sftp-example
 ============
 
 This is an Example for transfering Files in Java via the sftp protocol.
